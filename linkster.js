@@ -59,7 +59,7 @@ linkster = {
 
         _domainExists = linkster.domainExists(hostName);
         if(_domainExists){
-            alert(href+"\n\n Url has been blocked, contact site admin.\n\nBlocked by linkester.js")
+            alert(href+"\n\n Url has been blocked, contact site admin.\n\nBlocked by linkster.js")
             return false;
         }else{
             return true;
