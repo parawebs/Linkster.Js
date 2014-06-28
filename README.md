@@ -43,6 +43,9 @@ Documentation in the development version.
 
 ## Examples
 
+Working sample [here][link]
+[link]: http://codehate.github.io/Linkster.Js/
+
 
 ## Release History
 
